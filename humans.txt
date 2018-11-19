@@ -1,0 +1,19 @@
+/* TEAM */
+    Chef,
+    UI developer,
+    Web designer,
+    Author: Sakiba Omic
+    Location: Kalmar, Sweden
+
+
+/* THANKS */
+    - The Jekyll boilerplate user for this site.
+    Name: Johan Leitet
+    Github: Leitet
+
+
+/* SITE */
+    Last update: 2018/11/19
+    Standards: HTML5...
+    Components: ?
+    Software: Visual Studio Code,...? 
