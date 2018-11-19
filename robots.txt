@@ -1,0 +1,2 @@
+User-Agent: * // making this rules for all 
+Disallow: /_sass/
