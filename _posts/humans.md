@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Humans.txt"
+date:   2019-01-14 04:04:00 -0600
+categories: jekyll update
+comments: true
+---
+
+What is humans.txt and how have you configure it to your site?
+
+Short description on humans.txt:
+
+* a txt file that contains info about tha different people who have contributed to build the website
+* the only aim of this initiative is to know who the authors of the site we visit are
+
+It is not complicated so why not give the the deservin ones their decrementions?
+You can mention whoever you want, if of course yo hace their approval. You can mention the developer, the designer, the copywriter, the webmaster, the CEO... it can be an endless road
+
+If you decide to create a humans.txt file you should follow the structure of
+/*TEAM*/
+/*THANKS*/
+/*SITE*/
+and place it in the site root, just nest to the robots.txt
