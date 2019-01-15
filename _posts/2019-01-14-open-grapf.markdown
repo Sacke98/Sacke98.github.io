@@ -19,3 +19,4 @@ You also need 4 required properties for every page.
 <meta property="og:type" content="" />
 <meta property="og:url" content="" />
 <meta property="og:image" content="" />
+</head>"
