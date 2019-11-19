@@ -17,7 +17,7 @@ body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
  // background-color: $background-color;
-  background-color: rgb(231, 175, 231);
+ background-color: rgb(231, 175, 231);
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -27,6 +27,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  // background-image: url(..../);
 }
 
 
@@ -186,6 +187,7 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
+  background-color:white; // detta har du ändrat
   @extend %clearfix;
 
   @include media-query($on-laptop) {
@@ -193,6 +195,8 @@ pre {
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
+    // testa en färg här?
+    // background-color:rgb(136, 20, 20); // händer bara när sidan förminskas
   }
 }
 

@@ -3,6 +3,5 @@ layout: page
 title: Sakiba
 permalink: /about/
 ---
-Hejsan!
-Sakiba Omic här. Kolla gärna in mina posts :)
-åhhhh
+Hej!
+Sakiba heter jag och går UDM, läs gärna mina posts :)

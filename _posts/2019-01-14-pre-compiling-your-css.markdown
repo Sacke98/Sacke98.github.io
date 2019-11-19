@@ -6,8 +6,14 @@ categories: jekyll update
 comments: true
 ---
 
-What is Lorem Ipsum?
+# What do you think of pre-compiling your CSS?
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+A CSS Preprocessor is used to extend and transform the CSS-language with some usable tools/parts.
+Using CSS-preprocessors should contribute to some advantages such as less CSS to maintain, less repetition, calculations, better organized code by nesting, using variables, mixins and separate files. 
 
-Nu testar vi! Sacke! abba
+The best part in my opinion is the feature of better organized code. It has become natural to want to separate your code in more files and nesting feel much more reasonable than the way ordinary CSS usually gets used. (visa bildexempel och motivera?)
+
+The biggest "disadvantage" I have come across is the fact that this is the first time using a CSS-preprocessor (Sass). It took me some time to get to know the different tools and the setup but after that no problems at all. Then when you read about the disadvantages of CSS-preprocessors you read about that it is harder to debug your code, line numbers in the browser do not aline with the line numbers in source. 
+
+What tequnices did i use????
+abba

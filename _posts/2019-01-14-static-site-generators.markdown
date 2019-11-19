@@ -6,6 +6,10 @@ categories: jekyll update
 comments: true
 ---
 
-What is Lorem Ipsum?
+# What do you think of static site generators?
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+When I got introduced to static site generators all I could think was "where is everything????" so at first I was very scared because the setup was new. However when you get comfortable you get used to example writing in your markdown sa casual as when you wrote in word in elementry school. I think a reason also why it got a bit scary to comprehend everything in the beginning is because everything had been made in advance, so it took some time to understand what everything was.
+
+### What type of projects are they suitable for?
+
+Using a static site generator is an advantage when you often add changes, or work in teams. It is also more suitable when you enjoy organizing your code in separate files. 
