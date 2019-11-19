@@ -34,14 +34,6 @@ $on-laptop:        800px !default;
 //   }
 // }
 
-@mixin background("../assets/img/01.jpg",$position:0 0,$repeat: no-repeat) {
-  background: {
-      image: url($imgpath);
-      position: $position;
-      repeat: $repeat;
-  }
-}
-
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
