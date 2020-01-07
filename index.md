@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Läs och lär!
+Enjoy!

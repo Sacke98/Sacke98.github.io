@@ -14,7 +14,8 @@ Short description on humans.txt:
 * the only aim of this initiative is to know who the authors of the site we visit are
 
 It is not complicated so why not give the the deservin ones their decrementions?
-You can mention whoever you want, if of course you have their approval. You can mention the developer, the designer, the copywriter, the webmaster, the CEO... it can be an endless road
+You can mention whoever you want, if of course you have their approval. There is not a standard way to create the humans.txt file yet, however it is common to devide the file in three sections (team, thanks and site). You can mention the developer, the designer, the copywriter, the webmaster, the CEO... it can be an endless road, particularly when your team not only consists of only you. 
+
 
 If you decide to create a humans.txt file you should follow the structure of and place it in the site root, just next to the robots.txt
 ```

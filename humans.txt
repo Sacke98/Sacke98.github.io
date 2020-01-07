@@ -13,5 +13,4 @@
 /* SITE */
     Last update: 2019/11/19
     Standards: HTML5...
-    Components: ?
     Software: Visual Studio Code
